@@ -103,6 +103,7 @@
               },
               "properties": {
                 "name": "[variables('appServicePlan_name')]"
+
               }
             }
           ]
